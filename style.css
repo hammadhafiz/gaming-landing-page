@@ -1,0 +1,210 @@
+body{
+    background: rgba(0,0,0,0.7) url(peakpx.jpg) center center fixed;
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.figma button{
+    font-weight: 700px;
+     margin-left: 240px;
+     height: 70px;
+     width: 150px;
+     font-size: 20px;
+     border-radius: 12px;
+     background-color: gray;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+
+.figma button:hover{
+    background-color: darkcyan;
+    color: black;
+    transition: 0.4s all ease 0s;
+}
+
+
+.figma h1{
+    margin-top: 10px;
+
+}
+
+
+
+.pic {
+    margin-left: 150px;
+    margin-top: 130px;
+}
+
+
+
+.pic h1{
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+
+.icon {
+    margin-left: 150px;
+    color: #fff;
+    margin-top: 70px;
+}
+
+
+
+#one{
+    cursor: pointer;
+}
+
+
+
+#three {
+    margin-top: -21px;
+    cursor: pointer;
+    margin-left: -3px;
+}
+
+
+
+#four {
+    margin-left: 297px;
+    margin-top: -22px;
+    cursor: pointer;
+}
+
+
+.photo img {
+    margin-left: 700px;
+    width: 817px;
+    height: 400px;
+    border: solid cyan;
+    border-radius: 20px;
+    margin-top: -400px;
+}
+
+#one{
+    margin-top: -21px;
+}
+
+#two{
+    margin-top: -21px;
+}
+#four{
+    margin-top: -21px;
+}
+
+#name {
+    margin-left: 95px;
+}
+
+
+.fa-solid {
+    color: cyan;
+    margin-left: -22px;
+}
+
+
+
+.icon-2{
+    margin-left: 450px;
+    color: #fff;
+    margin-top: -30px;
+}
+
+
+
+
+
+
+#haa{
+    margin-top: -50px;
+}
+
+/* #two {
+    margin-top: -22px;
+}
+
+
+
+#haa {
+    color: cyan;
+    margin-left: 281px;
+    margin-top: -px;
+}
+
+
+
+
+#yes {
+    color: cyan;
+   margin-left: -22px;
+   margin-top: 29px;
+}
+
+
+
+#no {
+    margin-left: 280px;
+    margin-top: 32px;
+} */
+
+
+
+
+.section  button{
+     font-weight: 700px;
+     margin-left: 240px;
+     height: 70px;
+     width: 150px;
+     font-size: 20px;
+     border-radius: 12px;
+     background-color: gray;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 60px;
+}
+
+.section button:hover{
+     background-color: darkcyan;
+     color: black;
+     transition: 0.4s all ease 0s;
+}
+
+
+
+.section h1 {
+    font-size: 30px;
+}
+
+
+.icon-3 {
+    margin-left: 150px;
+    color: #fff;
+    margin-top: 100px;
+}
+
+
+
+.icon-4 {
+    margin-left: 327px;
+    color: #fff;
+    margin-top: -39px;
+}
+
+
+#four {
+    margin-top: -21px;
+    margin-left: 116px;
+}
+
+
+#no{
+    margin-top: -80px;
+}
+
+
+
