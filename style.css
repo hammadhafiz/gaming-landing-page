@@ -4,6 +4,14 @@ body{
     background-blend-mode: darken;
 }
 
+@media(max-widt:1000px){
+    body {
+   display: inline-block;
+    }
+
+
+}
+
 .figma button{
     font-weight: 700px;
      margin-left: 240px;
@@ -84,6 +92,14 @@ body{
     border: solid cyan;
     border-radius: 20px;
     margin-top: -400px;
+}
+
+@media(max-widt:1000px){
+    .photo img {
+   display: inline-block;
+    }
+
+
 }
 
 #one{
